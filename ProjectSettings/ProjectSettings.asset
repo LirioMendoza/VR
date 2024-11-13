@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: LirioMendoza
-  productName: Laberinto_LirioMendoza
+  productName: LaberintoAI_LirioMendoza
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -142,8 +142,6 @@ PlayerSettings:
   bundleVersion: 0.1
   preloadedAssets:
   - {fileID: 11400000, guid: ebd511af1b5938b48bdcb4a33214b568, type: 2}
-  - {fileID: 4043421231451953209, guid: 77296eb07da2f174ba9a2dd9970b03eb, type: 2}
-  - {fileID: 11400000, guid: 4e08f79dfcec4844fb5794cccaa8ea31, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -164,7 +162,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.LirioMendoza.Laberinto_LirioMendoza
+    Android: com.LirioMendoza.LaberintoAI_LirioMendoza
     Standalone: com.LirioMendoza.Laberinto-LirioMendoza
   buildNumber:
     Standalone: 0
@@ -950,7 +948,7 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 1
   windowsGamepadBackendHint: 0
   cloudProjectId: 
   framebufferDepthMemorylessMode: 0
